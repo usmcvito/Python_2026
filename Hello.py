@@ -11,7 +11,7 @@
 
 # String
 first_name = "Mike"
-print(first_name)
+print("First Name: " + first_name)
 
 # Number
 age = 28
